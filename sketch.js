@@ -2084,7 +2084,7 @@ function drawWinScene() {
 
       textSize(14);
       fill(255);
-      text("Enter", width/2, height/2 + 120);
+      text("Submit (Enter)", width/2, height/2 + 120);
     }
   }
 }
